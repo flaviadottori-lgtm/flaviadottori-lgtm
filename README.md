@@ -4,16 +4,6 @@
 
 **Data Analytics • Data Engineering • Process Automation • AI**
 
-SQL • Python • BigQuery • PostgreSQL • GCP • Docker • Linux • RAG • n8n • LangChain • OpenAI • Git
-
----
-
-## Sobre
-
-Construo soluções de negócio na interseção entre dados, automação e inteligência artificial.
-
----
-
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,3 +19,12 @@ Construo soluções de negócio na interseção entre dados, automação e intel
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+
+---
+
+## Sobre
+
+Transformo operações complexas em sistemas inteligentes através de dados, automação e inteligência artificial.
+---
+
