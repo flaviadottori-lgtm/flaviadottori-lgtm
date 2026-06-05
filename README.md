@@ -23,8 +23,6 @@
 
 ---
 
-## Sobre
-
-Transformo operações complexas em sistemas inteligentes através de dados, automação e inteligência artificial.
+Building data-driven solutions to automate processes, integrate systems, and improve operational efficiency.
 ---
 
