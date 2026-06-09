@@ -133,7 +133,7 @@ Founder of **FMD Inteligent Solutions**, an independent technology laboratory wh
 
 # GitHub Stats
 
-(Adicionar os cards do GitHub posteriormente)
+
 
 ---
 
